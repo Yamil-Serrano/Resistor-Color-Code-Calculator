@@ -67,12 +67,9 @@ class BandButton(Button):
 
 class ResistorApp(App):
     def build(self):
+        self.icon = 'resistor.ico'
         # Set window size
-        Window.size = (768, 768)
-        Window.minimum_width = 768
-        Window.minimum_height = 768
-        Window.maximum_width = 768
-        Window.maximum_height = 768
+        Window.size = (600, 600)
 
         # Initialize selected colors
         self.selected_colors = [None, None, None]

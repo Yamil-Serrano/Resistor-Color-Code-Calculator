@@ -11,3 +11,7 @@ A Python application built with Kivy that calculates the resistance value based 
 1. Clone this repository:
    ```bash
     https://github.com/Yamil-Serrano/Resistor-Color-Code-Calculator.git
+   
+## Credits
+Icon: The application uses an icon designed by Flat Icons. You can find the icon here:
+<a href="https://www.flaticon.com/free-icons/resistor" title="resistor icons">Resistor icons created by Flat Icons - Flaticon</a>
