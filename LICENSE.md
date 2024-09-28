@@ -4,7 +4,7 @@
 
 **Date:** September 15, 2024
 
-**Author:** Yamil Serrano (Neowizen)
+**Author:** [Neowizen](https://github.com/Yamil-Serrano)
 
 ---
 
@@ -19,7 +19,7 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
 **Acknowledgment:**
-You are required to provide appropriate credit to **Yamil Serrano (Neowizen)** when using this software. This can be done by including the above copyright
+You are required to provide appropriate credit to **[Neowizen](https://github.com/Yamil-Serrano)** when using this software. This can be done by including the above copyright
 notice and this permission notice in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
