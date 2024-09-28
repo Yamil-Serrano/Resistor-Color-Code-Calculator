@@ -15,3 +15,13 @@ A Python application built with Kivy that calculates the resistance value based 
 ## Credits
 Icon: The application uses an icon designed by Flat Icons. You can find the icon here:
 <a href="https://www.flaticon.com/free-icons/resistor" title="resistor icons">Resistor icons created by Flat Icons - Flaticon</a>
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md).
+
+## Contact
+
+If you have any questions or suggestions, feel free to reach out to me:
+
+GitHub: [Neowizen](https://github.com/Yamil-Serrano)
