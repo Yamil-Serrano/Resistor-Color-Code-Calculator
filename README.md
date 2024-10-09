@@ -18,7 +18,7 @@ Icon: The application uses an icon designed by Flat Icons. You can find the icon
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
 
 ## Contact
 
